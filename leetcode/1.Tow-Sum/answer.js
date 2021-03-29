@@ -4,7 +4,6 @@
  * @return {number[]}
  */
 var twoSum = function (nums, target) {
-  // 动态哈希表法
   const map = new Map();
   for (let i = 0; i < nums.length; i++) {
     const num1 = nums[i];
