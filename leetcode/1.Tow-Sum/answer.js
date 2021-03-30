@@ -1,6 +1,7 @@
 /**
  * @param {number[]} nums
  * @param {number} target
+ * @description 动态哈希表法
  * @return {number[]}
  */
 var twoSum = function (nums, target) {
