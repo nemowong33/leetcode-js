@@ -1,2 +1,4 @@
 # WebStrom config files
 .idea
+# Nodejs
+node_modules
